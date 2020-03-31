@@ -1,4 +1,4 @@
-# Ecpress-websocket
+# Express-websocket
 # Description
 This is a simple chat api, using socket.io
 
