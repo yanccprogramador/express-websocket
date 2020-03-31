@@ -1,5 +1,4 @@
-# front-chat
-
+# Ecpress-websocket
 # Description
 This is a simple chat api, using socket.io
 
